@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1px;
+    margin: 10px; 
+    background-color: #9EB23B;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}   
+
+img {
+    margin: 20px;
+}
+
+h1 {
+    margin: 30px 5px 30px;
+}
+
+h1, h2, td, th{
+    color: #fefefe;
+    text-shadow: 1px 1px 6px #9e9e9e;
+}

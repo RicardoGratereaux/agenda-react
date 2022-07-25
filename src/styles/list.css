@@ -1,0 +1,38 @@
+.container-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+    background-color: #C7D36F;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title-list {
+    font-size: 20px;
+    
+}
+
+table {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    border-collapse: collapse;
+}
+
+td {
+    width: 400px;
+}
+
+th, td{
+    height: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #9EB23B;
+    width: 400px;
+}
